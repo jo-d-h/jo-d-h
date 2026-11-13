@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-안녕하세요, 동현입니다. 백엔드 개발과 데이터베이스 설계를 공부하는 소프트웨어 전공 학부생입니다. 팀 캡스톤에서는 센서 데이터가 API를 거쳐 MySQL에 저장되는 흐름을 다루고 있습니다. 앞으로는 공공데이터와 위치 정보를 활용하는 서비스도 만들어보고 싶습니다.
+안녕하세요, 동현입니다. 백엔드 개발과 데이터베이스 설계를 공부하는 소프트웨어 전공 학부생입니다. 팀 캡스톤에서는 센서 데이터가 API를 거쳐 MySQL에 저장되는 흐름을 다루고 있습니다. 개인 프로젝트로는 중요한 알림을 놓치지 않도록 돕는 Android 앱 **NotiFilter**를 만들고 있습니다. 앞으로는 공공데이터와 위치 정보를 활용하는 서비스도 만들어보고 싶습니다.
 
 | 구분 | 내용 |
 | :--- | :--- |
@@ -14,13 +14,27 @@
 | 프로젝트 | 내용 | 상태 |
 | :--- | :--- | :--- |
 | **침수 안전 관리 시스템** | 센서와 기상 데이터를 활용해 시설의 침수 위험을 모니터링하는 팀 캡스톤 | 진행 중 |
-| **NotiFilter** | Android 알림 필터 앱. 실기기에서 알림 데이터를 확인하는 초기 MVP 범위를 정리 | MVP 기획 |
+| [**NotiFilter**](#-notifilter) | 사용자 기준에 따라 알림을 분류하는 Android 앱 | ![Early Development](https://img.shields.io/badge/Early%20Development-1D4ED8?style=flat-square) |
 
 ### 침수 안전 관리 시스템에서 맡은 일
 
 - 시설·장치·센서 측정값 등을 관리하는 MySQL 테이블 12개를 설계하고, 로컬과 Azure 개발 환경에 적용해 주요 제약조건을 확인했습니다.
 - 센서 수신 API에 잘못된 입력을 보내 오류 응답을 확인하고, 동일 요청을 다시 보내도 로컬 DB에 측정값이 중복 저장되지 않는지 검증했습니다.
 - 팀원이 개발 환경을 재현할 수 있도록 ERD, DB 적용 절차, API 요청 예시를 정리했습니다.
+
+### 🔔 NotiFilter
+
+중요한 알림을 놓치지 않도록, 사용자 기준에 따라 Android 알림을 분류하는 개인 프로젝트입니다. 초기 버전에서는 실기기에서 수신 알림 데이터를 확인하고 기본 필터링을 검증하는 것을 목표로 합니다. 사용자의 선호를 반영하는 AI 개인화는 이후 확장 기능으로 구상하고 있습니다.
+
+![Android](https://img.shields.io/badge/Android-166534?style=flat-square&logo=android&logoColor=white)
+
+## 💡 Project Ideas
+
+| 프로젝트 | 해결하려는 문제 | 상태 |
+| :--- | :--- | :--- |
+| 🎓 **University Workspace** | 여러 곳에 흩어진 강의 자료, 과제 마감, 학습 일정을 한곳에서 관리합니다. | ![Next Project](https://img.shields.io/badge/Next%20Project-1D4ED8?style=flat-square) |
+| ✈️ **Trip Workspace** | 여행 일정, 항공·숙소 가격, 식당 후보, 경비 정산을 한곳에서 관리합니다. 가격 모니터링과 근교 여행 추천도 확장 기능으로 구상하고 있습니다. | ![Concept](https://img.shields.io/badge/Concept-475569?style=flat-square) |
+| 🚌 **개인화 통학·대중교통 앱** | 자주 타는 노선과 평소 통학 시간에 맞춰 출발 시점을 판단할 수 있도록 돕는 앱입니다. | ![Backlog](https://img.shields.io/badge/Backlog-475569?style=flat-square) |
 
 ## 🛠️ Tech Stack
 
