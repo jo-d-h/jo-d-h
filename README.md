@@ -1,4 +1,4 @@
-![Hi, I'm Donghyun](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F766E&height=190&section=header&text=Hi%2C%20I%27m%20Donghyun&fontSize=42&fontColor=FFFFFF)
+![Hi! I'm DongHyun Cho](https://capsule-render.vercel.app/api?type=waving&color=B8F9FB&height=190&section=header&text=Hi%21%20I%27m%20DongHyun%20Cho&fontSize=42&fontColor=0F172A)
 
 ## 👋 About Me
 
