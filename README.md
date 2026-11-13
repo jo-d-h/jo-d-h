@@ -13,7 +13,7 @@
 
 | 프로젝트 | 내용 | 상태 |
 | :--- | :--- | :--- |
-| **AI 기반 지능형 침수 감지 및 도로 안전 관리 시스템** | 센서와 기상 데이터를 활용해 시설의 침수 위험을 모니터링하는 팀 캡스톤 | 진행 중 |
+| **AI 기반 지능형 침수 감지 및 도로 안전 관리 시스템** | 센서와 기상 데이터를 활용해 시설의 침수 위험을 모니터링하는 팀 캡스톤 | ![In Progress](https://img.shields.io/badge/In%20Progress-1D4ED8?style=flat-square) |
 | [**NotiFilter**](https://github.com/jo-d-h/NotiFilter) | 안드로이드 사용자를 위한 개인 맞춤형 온디바이스 알림 필터 | ![Early Development](https://img.shields.io/badge/Early%20Development-1D4ED8?style=flat-square) |
 | **부산의 밤, 빛으로 잇다** | 부산의 바다와 도시를 6개 장면으로 표현하는 90초 3D 드론쇼 시뮬레이션 | ![Proposal](https://img.shields.io/badge/Proposal-475569?style=flat-square) |
 
