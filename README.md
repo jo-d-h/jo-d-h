@@ -1,4 +1,4 @@
-![Hi! I'm DongHyun Cho](https://capsule-render.vercel.app/api?type=waving&color=55F5F8&height=190&section=header&text=Hi%21%20I%27m%20DongHyun%20Cho&fontSize=42&fontColor=0F172A)
+![Hi! I'm DongHyun Cho](https://capsule-render.vercel.app/api?type=waving&color=55F5F8&height=190&section=header&text=Hi%21%20I%27m%20DongHyun%20Cho&fontSize=42&fontColor=FFFFFF)
 
 ## 👋 About Me
 
@@ -14,7 +14,7 @@
 | 프로젝트 | 내용 | 상태 |
 | :--- | :--- | :--- |
 | **AI 기반 지능형 침수 감지 및 도로 안전 관리 시스템** | 센서와 기상 데이터를 활용해 시설의 침수 위험을 모니터링하는 팀 캡스톤 | 진행 중 |
-| [**NotiFilter**](#-notifilter) | 사용자 기준에 따라 알림을 분류하는 Android 앱 | ![Early Development](https://img.shields.io/badge/Early%20Development-1D4ED8?style=flat-square) |
+| [**NotiFilter**](https://github.com/jo-d-h/NotiFilter) | 안드로이드 사용자를 위한 개인 맞춤형 온디바이스 알림 필터 | ![Early Development](https://img.shields.io/badge/Early%20Development-1D4ED8?style=flat-square) |
 | **부산의 밤, 빛으로 잇다** | 부산의 바다와 도시를 6개 장면으로 표현하는 90초 3D 드론쇼 시뮬레이션 | ![Proposal](https://img.shields.io/badge/Proposal-475569?style=flat-square) |
 
 ### AI 기반 지능형 침수 감지 및 도로 안전 관리 시스템에서 맡은 일
@@ -48,14 +48,17 @@
 
 | 분야 | 사용 기술 |
 | :--- | :--- |
-| Backend | ![Java](https://img.shields.io/badge/Java-B45309?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3F6212?style=flat-square&logo=springboot&logoColor=white) |
-| Database | ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| Languages | ![Java](https://img.shields.io/badge/Java-B45309?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-374151?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square) |
+| Backend & Database | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3F6212?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | Cloud | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) |
-| Web Coursework | ![HTML5](https://img.shields.io/badge/HTML5-B93816?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2563EB?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-854D0E?style=flat-square&logo=javascript&logoColor=white) |
+| Web Coursework | ![HTML5](https://img.shields.io/badge/HTML5-B93816?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2563EB?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-854D0E?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-555D9E?style=flat-square&logo=php&logoColor=white) |
+| Vision & Graphics | ![OpenCV](https://img.shields.io/badge/OpenCV-374151?style=flat-square&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-467E9B?style=flat-square&logo=opengl&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-C2410C?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
+| IDEs & Notebooks | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-252525?style=flat-square&logo=intellijidea&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android%20Studio-166534?style=flat-square&logo=androidstudio&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-B45309?style=flat-square&logo=jupyter&logoColor=white) |
 
 ## 📚 Coursework & Practice
 
-| 기록 | 내용 |
-| :--- | :--- |
-| [**2025 Web Coursework**](https://github.com/jo-d-h/2025-web-coursework) | 계산기, Game of Life, 자연연역 도구 등 웹 프로그래밍·웹 서버 과제 6개 |
-| [**Problem Solved**](https://github.com/jo-d-h/Problem_Solved) | ASCODE와 Programmers에서 푼 문제를 모아 정리한 기록 |
+| 기록 | 내용 | 공개 여부 |
+| :--- | :--- | :--- |
+| [**university-coursework**](https://github.com/jo-d-h/university-coursework) | 2022년~2026년 1학기 대학 프로그래밍 실습 아카이브. C/C++ 자료구조, OpenGL 그래픽스, Python 영상·오디오 처리, PHP/MySQL 웹서버, Java Swing/MySQL 대기열 앱을 학기별로 정리했습니다. | Public |
+| [**Problem_Solved**](https://github.com/jo-d-h/Problem_Solved) | ASCODE와 프로그래머스 코딩 문제 개인 풀이 모음 | Private |
