@@ -58,7 +58,7 @@
 
 ## 📚 Coursework & Practice
 
-| 기록 | 내용 | 공개 여부 |
+| 기록 | 내용 |
 | :--- | :--- | :--- |
-| [**university-coursework**](https://github.com/jo-d-h/university-coursework) | 2022년~2026년 1학기 대학 프로그래밍 실습 아카이브. C/C++ 자료구조, OpenGL 그래픽스, Python 영상·오디오 처리, PHP/MySQL 웹서버, Java Swing/MySQL 대기열 앱을 학기별로 정리했습니다. | Public |
-| [**Problem_Solved**](https://github.com/jo-d-h/Problem_Solved) | ASCODE와 프로그래머스 코딩 문제 개인 풀이 모음 | Private |
+| [**university-coursework**](https://github.com/jo-d-h/university-coursework) | 2022년~2026년 1학기 대학 프로그래밍 실습 아카이브. C/C++ 자료구조, OpenGL 그래픽스, Python 영상·오디오 처리, PHP/MySQL 웹서버, Java Swing/MySQL 대기열 앱을 학기별로 정리했습니다. |
+| [**Problem_Solved**](https://github.com/jo-d-h/Problem_Solved) | ASCODE와 프로그래머스 코딩 문제 개인 풀이 모음 |
